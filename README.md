@@ -14,6 +14,7 @@ I focus on building simple, responsive websites using HTML, CSS, and JavaScript.
 This GitHub is a collection of my learning projects, experiments, and small websites I build to practice and grow. One of my current projects:
 
 - [Masjid Al Istiqomah Website](https://github.com/AsrilSyahputra/Masjid-Al-Istiqomah) – A simple landing page for a local mosque
+- [Landing page Weddings](https://github.com/AsrilSyahputra/Landing-Weddings) - Landing page for a weddings
 
 ### 📌 Goals
 - Become confident in front-end development
